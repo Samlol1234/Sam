@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Forlorn_Detest.aternos.me",
+    "ip": "blackfish.aternos.host",
     "port": 17846,
     "version": "",
     "try-creative": false
